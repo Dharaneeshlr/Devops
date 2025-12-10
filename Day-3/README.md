@@ -11,3 +11,4 @@ A physical server is a standalone, high-performance computer made of physical ha
 Logical isolation - which means only by logical sepration not by physical means.
 ```
 Explanitation video : (https://www.youtube.com/watch?v=lgUwYwBozow&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&index=4)
+<img width="1007" height="527" alt="image" src="https://github.com/user-attachments/assets/c0f28e49-ba45-466e-b4bd-682c12a9c16c" />
