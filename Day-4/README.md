@@ -30,3 +30,4 @@ Script can be multiple types:
 Meaning:
       - It can work with AWS, Azure, GCP, Kubernetes, VMware, Oracle Cloud, etc.
   
+Explaination video : (https://www.youtube.com/watch?v=NJkMe9cdYEQ&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&index=5)
