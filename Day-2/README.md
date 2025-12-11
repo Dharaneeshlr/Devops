@@ -24,8 +24,8 @@ As a Devops Engineer I am primarily focused on automation and improving the effi
 ## Where the Devops works and improves this process?
 ```
 ->Planning + Requirments -> what the customers need and gather the information
-->Defining  -> need to document the information ,which is required for software requirment                specification document they will provide the all data as per the planning phase 
-->Desinging -> high level design HLD , Low Level Design LLD
+->Defining  -> need to document the information ,which is required for software requirment specification document they will provide the all data as per the planning phase 
+->Desinging -> high level design (HLD) , Low Level Design (LLD)
 ```
 ### Automation takes place for Devops engineer 
 ```
