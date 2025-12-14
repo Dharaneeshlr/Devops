@@ -6,7 +6,7 @@
  ==> Planning ,Defining ,Desinging ,Building ,Testing ,Deploy
 ```
 ## Note:
-As a Devops Engineer I am primarily focused on automation and improving the efficency by Building, Testing and the deployment phase. 
+As a Devops Engineer we am primarily focused on automation and improving the efficency by Building, Testing and the deployment phase. 
 
 ## For Example
 ```
